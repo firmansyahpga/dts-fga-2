@@ -14,6 +14,10 @@ Ainan
 Muhammad Ryandrie
 - Link Github: https://github.com/ryandriesatria
 
+Firmansyah
+- Link Github: https://github.com/firmansyahpga
+
+
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
 
